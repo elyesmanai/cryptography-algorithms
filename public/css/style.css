@@ -1,0 +1,42 @@
+.buttons-box{
+	height: 5vh;
+	background-color: white;
+	box-shadow: 1px 1px 5px;
+	text-align: center center;
+	margin-bottom: 5vh;
+		padding: 0;
+}
+
+.buttons-box > div{
+	margin:0;
+
+	border-right: 1px solid black;
+}
+
+.buttons-box > div > p{
+	text-align: center;
+	padding-top: 5%;
+
+}
+
+.buttons-box>div:hover{
+	border-bottom: 3px solid green;margin:0;
+}
+	
+
+.box{
+	background-color: white;
+	padding:4%;
+	border: 1px solid black;
+}
+
+body{
+	background-color: #F5F5F5;
+}
+
+.result-box{
+	background-color: rgba(255,255,255,0.7);
+	padding:3%;
+	margin-top:10%;
+
+}
